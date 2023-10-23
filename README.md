@@ -3,7 +3,7 @@ Hi, I'm Bruno
 ###  A little more about me...
 
 <img src="https://cdn.discordapp.com/emojis/946108238737338388.webp" width="16"> **Me**  
-<img src="https://cdn.discordapp.com/emojis/968487821704822804.webp" width="16"> <img src="https://cdn.discordapp.com/emojis/924071140257841162.webp" width="16"> Name: Hoeme / Bruno (notirl)
+<img src="https://cdn.discordapp.com/emojis/968487821704822804.webp" width="16"> <img src="https://cdn.discordapp.com/emojis/924071140257841162.webp" width="16"> Name: Hoeme / Bruno (notirl) <br>
 <img src="https://cdn.discordapp.com/emojis/968487821704822804.webp" width="16"> <img src="https://cdn.discordapp.com/emojis/807752347782086707.webp" width="16"> Born: `18 years ago`  
 <img src="https://cdn.discordapp.com/emojis/968487821704822804.webp" width="16"> <img src="https://cdn.discordapp.com/emojis/1042174387731845212.webp" width="16"> Discord: `brunodcided`  
 <img src="https://cdn.discordapp.com/emojis/968488315659632690.webp" width="16"> <img src="https://cdn.discordapp.com/emojis/818265329460445204.gif" width="16"> Nationality: Indian
